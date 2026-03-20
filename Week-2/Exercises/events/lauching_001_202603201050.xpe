@@ -1,0 +1,56 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Fri Mar 20 2026 10:50:10
+#sha1: 41737d
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Windows', node='DuliFuli', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+11217,design,log,
+#design: #exp: Two Square
+#design: block_cnt,block_id,trial_cnt,trial_id
+11217,design,logged,
+11217,Experiment,started
+11218,Stimulus,presented,0
+11221,Stimulus,presented,1
+12222,Stimulus,presented,1
+12224,Stimulus,presented,1
+13226,Stimulus,presented,1
+13229,Stimulus,presented,1
+14230,Stimulus,presented,1
+14232,Stimulus,presented,1
+15233,Stimulus,presented,1
+15236,Stimulus,presented,1
+16237,Stimulus,presented,1
+16240,Stimulus,presented,1
+17241,Stimulus,presented,1
+17243,Stimulus,presented,1
+18244,Stimulus,presented,1
+18246,Stimulus,presented,1
+19247,Stimulus,presented,1
+19250,Stimulus,presented,1
+20252,Stimulus,presented,1
+20254,Stimulus,presented,1
+21255,Stimulus,presented,1
+21257,Stimulus,presented,1
+22258,Stimulus,presented,1
+22261,Stimulus,presented,1
+23262,Stimulus,presented,1
+23264,Stimulus,presented,1
+24265,Stimulus,presented,1
+24267,Stimulus,presented,1
+25269,Stimulus,presented,1
+25272,Stimulus,presented,1
+26273,Stimulus,presented,1
+26275,Stimulus,presented,1
+27276,Stimulus,presented,1
+27278,Stimulus,presented,1
+28279,Stimulus,presented,1
+28282,Stimulus,presented,1
+29283,Stimulus,presented,1
+29284,Stimulus,presented,1
+30286,Stimulus,presented,1
+30288,Stimulus,presented,1
+31289,Stimulus,presented,1
+31292,Stimulus,presented,1
+32292,Experiment,ended
+32340,Stimulus,presented,2

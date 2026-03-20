@@ -1,0 +1,17 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Fri Mar 20 2026 10:41:33
+#sha1: 892991
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Windows', node='DuliFuli', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+12460,design,log,
+#design: #exp: Two Square
+#design: block_cnt,block_id,trial_cnt,trial_id
+12460,design,logged,
+12460,Experiment,started
+12461,Stimulus,presented,0
+12464,Stimulus,presented,1
+13497,stderr,received,'Traceback (most recent call last):'
+13498,stderr,received,'  File "c:\\Users\\flora\\Documents\\CogSup\\Programming\\Assignments\\Week-2\\Exercises\\lauching.py", line 27, in <module>\n    square2.move(20,0)\n    ~~~~~~~~~~~~^^^^^^'
+13498,stderr,received,'TypeError: Visual.move() takes 2 positional arguments but 3 were given'

@@ -1,0 +1,10 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Fri Mar 20 2026 09:58:26
+#sha1: 96dd92
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DuliFuli', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+554,stderr,received,'Traceback (most recent call last):'
+554,stderr,received,'  File "c:\\Users\\flora\\Documents\\CogSup\\Programming\\Assignments\\Week-2\\Exercises\\two_squares.py", line 16, in <module>\n    square.position(150,0)\n    ~~~~~~~~~~~~~~~^^^^^^^'
+554,stderr,received,"TypeError: 'list' object is not callable"

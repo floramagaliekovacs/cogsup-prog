@@ -1,0 +1,17 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Fri Mar 20 2026 09:46:01
+#sha1: a1a497
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DuliFuli', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+2067,design,log,
+#design: #exp: Square
+#design: block_cnt,block_id,trial_cnt,trial_id
+2067,design,logged,
+2067,Experiment,started
+2068,Stimulus,presented,1
+2070,Stimulus,presented,0
+2572,Stimulus,presented,1
+5851,Keyboard,received,32,wait
+5851,Experiment,ended
