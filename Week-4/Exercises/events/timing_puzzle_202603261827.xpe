@@ -1,0 +1,14 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Thu Mar 26 2026 18:27:27
+#sha1: 91bbca
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DuliFuli', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+586,Stimulus,presented,0
+1583,stdout,received,'4'
+1586,Stimulus,presented,1
+1586,stdout,received,'3'
+2592,Stimulus,presented,2
+4592,Experiment,ended
+4600,Stimulus,presented,3
