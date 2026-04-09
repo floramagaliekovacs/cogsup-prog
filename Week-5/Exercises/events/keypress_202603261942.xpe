@@ -1,0 +1,12 @@
+#Expyriment 1.0.0 (Python 3.13.7), .xpe-file, coding: cp1252
+#date: Thu Mar 26 2026 19:42:21
+#sha1: a36bdd
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DuliFuli', release='11', version='10.0.26200', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+700,Stimulus,presented,0
+4543,Keyboard,received,1073741914,wait
+4544,stdout,received,'you pressed 1073741914'
+4544,Experiment,ended
+4549,Stimulus,presented,1
